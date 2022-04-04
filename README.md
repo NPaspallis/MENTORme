@@ -38,5 +38,5 @@ The collected data is used solely for the purposes of the project, and is not us
 purposes, nor is it shared with any third parties.
 
 For any questions related to data privacy, please get in touch via the
-[Contact US Form](https://mentorme-programme.eu/contact-us) on the project's page.
+[Contact Us Form](https://mentorme-programme.eu/contact-us) on the project's page.
 
