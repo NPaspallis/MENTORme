@@ -1,4 +1,4 @@
-<img src="store/images/mentorme-launcher.png" alt="MENTORme logo" width="200">
+<img src="store/images/MENTORme_icon_512x512.png" alt="MENTORme logo" width="200">
 
 # MENTORme Mobile App
 
