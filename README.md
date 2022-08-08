@@ -40,3 +40,14 @@ purposes, nor is it shared with any third parties.
 For any questions related to data privacy, please get in touch via the
 [Contact Us Form](https://mentorme-programme.eu/contact-us) on the project's page.
 
+## Install app
+
+The app is available on the Apple AppStore and Google Play app markets:
+
+- [MENTORme app on AppStore (iPhone/iPad)](https://apps.apple.com/app/mentorme/id1631526529)
+
+- [MENTORme app on Google Play (android)](https://play.google.com/store/apps/details?id=org.inspire.mentorme.mentormeapp)
+
+## Credits
+
+The app was developed by the [MENTORme consortium](https://mentorme-programme.eu/). Technical implementation by [UCLan Cyprus](https://www.uclancyprus.ac.cy/) and [Inspire Research Center](http://inspirecenter.org/).
